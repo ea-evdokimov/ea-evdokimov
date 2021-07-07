@@ -9,9 +9,7 @@
 
 <a href="https://www.instagram.com/ea_evdokimov/"><img align="left" height=20 width=20 src="https://pngicon.ru/file/uploads/instagram.png" /></a>
 
-<a href="mailto:evdokimov.ea@phystech.edu"><img align="left" height=20 width=20 src="https://pngicon.ru/file/uploads/elektron-pochta.png" /></a>
-
-
+<a href="mailto:evdokimov.ea@phystech.edu"><img align="left" height=20 width=20 src="https://pngicon.ru/file/uploads/elektron-pochta.png" /></a>  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
